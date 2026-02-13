@@ -1,0 +1,35 @@
+body{
+    align-items: center;
+    justify-items: center;
+    background-color: seagreen;
+    background-image:url("https://images.pexels.com/photos/2387532/pexels-photo-2387532.jpeg");
+}
+.one{
+    margin-top:10px;
+   padding-top:60px;
+   padding-right:50px;
+   padding-left:50px;
+   padding-bottom:-55px;
+   border-radius:20px;
+    background-color:#BF9696;
+    
+}
+img{
+  margin-bottom:10px;
+}  
+i{
+    padding-bottom:70px;
+} 
+.three{
+    width:100%;
+    background-color:rgb(203, 29, 113);
+    height:4px;
+    margin-bottom:30px; 
+    border-radius:60px;
+    cursor:pointer; 
+    display:flex;
+    justify-content: space-between;
+}
+.two{
+    cursor:pointer;
+}
